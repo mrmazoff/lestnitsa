@@ -1,4 +1,4 @@
-const CACHE = 'lestnitsa-v1';
+const CACHE = 'lestnitsa-v2';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-180.png'];
 
 self.addEventListener('install', e => {
